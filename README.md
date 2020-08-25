@@ -5,4 +5,4 @@
 Welcome to my world buddy, here i have some personal projects, studies and tests.
 Enjoy and feel confortable to open a PR.
 
-<img src="https://media.giphy.com/media/9HBduC3ZIgrG8/source.gif" width="875" alt="Gmail">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissonzampietro)](https://github.com/anuraghazra/github-readme-stats)
