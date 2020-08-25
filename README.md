@@ -6,3 +6,5 @@ Welcome to my world buddy, here i have some personal projects, studies and tests
 Enjoy and feel confortable to open a PR.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissonzampietro&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonzampietro&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
