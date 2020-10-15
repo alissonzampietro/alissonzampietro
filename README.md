@@ -10,3 +10,7 @@ Enjoy and feel confortable to open a PR.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissonzampietro&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonzampietro" alt="alissonzampietro" /> </p>
