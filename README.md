@@ -13,4 +13,4 @@ Enjoy and feel confortable to open a PR.
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonzampietro&color=orange" alt="alissonzampietro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonzampietro&color=orange&style=flat-square" alt="alissonzampietro" /> </p>
